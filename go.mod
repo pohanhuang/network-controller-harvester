@@ -77,7 +77,7 @@ require (
 	github.com/harvester/webhook v0.1.5
 	github.com/insomniacslk/dhcp v0.0.0-20240829085014-a3a4c1f04475
 	github.com/k8snetworkplumbingwg/network-attachment-definition-client v1.7.7
-	github.com/kubeovn/kube-ovn v1.13.13
+	github.com/kubeovn/kube-ovn v1.16.2
 	github.com/rancher/lasso v0.2.2
 	github.com/rancher/wrangler v1.1.2
 	github.com/rancher/wrangler/v3 v3.1.0
